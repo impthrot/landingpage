@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5em;
+    margin-right: 5em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 1em;
+}
+a {
+    text-decoration: none;
+}
+.awesome {
+    display: flex;
+    margin-left: 5em;
+    margin-top: 5em;
+    gap: 3em;
+}
+.web {
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainintro {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image5 {
+    max-width: 550px;
+    max-height: 275px;
+    margin-top: 2em;
+    margin-right: 5em;
+}
+.button {
+    background-color: #3882f6;
+    color: white;
+    font-weight: 600;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
